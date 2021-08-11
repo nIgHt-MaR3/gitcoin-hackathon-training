@@ -11,4 +11,4 @@ https://explorer.nervos.org/aggron/address/ckt1qyqrzcdvx7zhrhezs86sulyq02gq7nzgv
 
 ## 3. Layer 2 Deposit Output
 
-<img src="layer-2-deposit.png" />
+<img src="layer-2-deposit-v2.png" />
