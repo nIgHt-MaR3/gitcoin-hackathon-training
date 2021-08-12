@@ -2,7 +2,7 @@
 
 ## 1. Screenshot of Generating a Receiver Address
 
-<img src="t6-generate-receiver-address.png.png" />
+<img src="t6-generate-receiver-address.png" />
 
 
 ## 2. Deposit Receiver Address
